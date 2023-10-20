@@ -1,0 +1,15 @@
+C:\Users\49802002810\Desktop\exer.elevador\bin\Debug\net7.0\exer.elevador.exe
+C:\Users\49802002810\Desktop\exer.elevador\bin\Debug\net7.0\exer.elevador.deps.json
+C:\Users\49802002810\Desktop\exer.elevador\bin\Debug\net7.0\exer.elevador.runtimeconfig.json
+C:\Users\49802002810\Desktop\exer.elevador\bin\Debug\net7.0\exer.elevador.dll
+C:\Users\49802002810\Desktop\exer.elevador\bin\Debug\net7.0\exer.elevador.pdb
+C:\Users\49802002810\Desktop\exer.elevador\obj\Debug\net7.0\exer.elevador.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\exer.elevador\obj\Debug\net7.0\exer.elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\exer.elevador\obj\Debug\net7.0\exer.elevador.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\exer.elevador\obj\Debug\net7.0\exer.elevador.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\exer.elevador\obj\Debug\net7.0\exer.elevador.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\exer.elevador\obj\Debug\net7.0\exer.elevador.dll
+C:\Users\49802002810\Desktop\exer.elevador\obj\Debug\net7.0\refint\exer.elevador.dll
+C:\Users\49802002810\Desktop\exer.elevador\obj\Debug\net7.0\exer.elevador.pdb
+C:\Users\49802002810\Desktop\exer.elevador\obj\Debug\net7.0\exer.elevador.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\exer.elevador\obj\Debug\net7.0\ref\exer.elevador.dll

@@ -1,0 +1,15 @@
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\bin\Debug\net7.0\Exercicio_atributos estaticos.exe
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\bin\Debug\net7.0\Exercicio_atributos estaticos.deps.json
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\bin\Debug\net7.0\Exercicio_atributos estaticos.runtimeconfig.json
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\bin\Debug\net7.0\Exercicio_atributos estaticos.dll
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\bin\Debug\net7.0\Exercicio_atributos estaticos.pdb
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\obj\Debug\net7.0\Exercicio_atributos estaticos.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\obj\Debug\net7.0\Exercicio_atributos estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\obj\Debug\net7.0\Exercicio_atributos estaticos.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\obj\Debug\net7.0\Exercicio_atributos estaticos.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\obj\Debug\net7.0\Exercicio_atributos estaticos.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\obj\Debug\net7.0\Exercicio_atributos estaticos.dll
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\obj\Debug\net7.0\refint\Exercicio_atributos estaticos.dll
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\obj\Debug\net7.0\Exercicio_atributos estaticos.pdb
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\obj\Debug\net7.0\Exercicio_atributos estaticos.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\Exercicio_atributos estaticos\obj\Debug\net7.0\ref\Exercicio_atributos estaticos.dll

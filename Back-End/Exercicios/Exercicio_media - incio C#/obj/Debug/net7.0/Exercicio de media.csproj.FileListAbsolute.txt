@@ -1,0 +1,15 @@
+C:\Users\49802002810\Desktop\Exercicio de media\bin\Debug\net7.0\Exercicio de media.exe
+C:\Users\49802002810\Desktop\Exercicio de media\bin\Debug\net7.0\Exercicio de media.deps.json
+C:\Users\49802002810\Desktop\Exercicio de media\bin\Debug\net7.0\Exercicio de media.runtimeconfig.json
+C:\Users\49802002810\Desktop\Exercicio de media\bin\Debug\net7.0\Exercicio de media.dll
+C:\Users\49802002810\Desktop\Exercicio de media\bin\Debug\net7.0\Exercicio de media.pdb
+C:\Users\49802002810\Desktop\Exercicio de media\obj\Debug\net7.0\Exercicio de media.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\Exercicio de media\obj\Debug\net7.0\Exercicio de media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\Exercicio de media\obj\Debug\net7.0\Exercicio de media.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\Exercicio de media\obj\Debug\net7.0\Exercicio de media.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\Exercicio de media\obj\Debug\net7.0\Exercicio de media.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\Exercicio de media\obj\Debug\net7.0\Exercicio de media.dll
+C:\Users\49802002810\Desktop\Exercicio de media\obj\Debug\net7.0\refint\Exercicio de media.dll
+C:\Users\49802002810\Desktop\Exercicio de media\obj\Debug\net7.0\Exercicio de media.pdb
+C:\Users\49802002810\Desktop\Exercicio de media\obj\Debug\net7.0\Exercicio de media.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\Exercicio de media\obj\Debug\net7.0\ref\Exercicio de media.dll

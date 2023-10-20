@@ -1,0 +1,15 @@
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\bin\Debug\net7.0\Lista de objetos.exe
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\bin\Debug\net7.0\Lista de objetos.deps.json
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\bin\Debug\net7.0\Lista de objetos.runtimeconfig.json
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\bin\Debug\net7.0\Lista de objetos.dll
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\bin\Debug\net7.0\Lista de objetos.pdb
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\obj\Debug\net7.0\Lista de objetos.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\obj\Debug\net7.0\Lista de objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\obj\Debug\net7.0\Lista de objetos.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\obj\Debug\net7.0\Lista de objetos.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\obj\Debug\net7.0\Lista de objetos.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\obj\Debug\net7.0\Lista de objetos.dll
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\obj\Debug\net7.0\refint\Lista de objetos.dll
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\obj\Debug\net7.0\Lista de objetos.pdb
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\obj\Debug\net7.0\Lista de objetos.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\BACKEND_explicacoes\Lista de objetos\obj\Debug\net7.0\ref\Lista de objetos.dll

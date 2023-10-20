@@ -1,0 +1,45 @@
+C:\Users\49802002810\Desktop\testar\bin\Debug\net7.0\testar.exe
+C:\Users\49802002810\Desktop\testar\bin\Debug\net7.0\testar.deps.json
+C:\Users\49802002810\Desktop\testar\bin\Debug\net7.0\testar.runtimeconfig.json
+C:\Users\49802002810\Desktop\testar\bin\Debug\net7.0\testar.dll
+C:\Users\49802002810\Desktop\testar\bin\Debug\net7.0\testar.pdb
+C:\Users\49802002810\Desktop\testar\obj\Debug\net7.0\testar.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\testar\obj\Debug\net7.0\testar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\testar\obj\Debug\net7.0\testar.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\testar\obj\Debug\net7.0\testar.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\testar\obj\Debug\net7.0\testar.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\testar\obj\Debug\net7.0\testar.dll
+C:\Users\49802002810\Desktop\testar\obj\Debug\net7.0\refint\testar.dll
+C:\Users\49802002810\Desktop\testar\obj\Debug\net7.0\testar.pdb
+C:\Users\49802002810\Desktop\testar\obj\Debug\net7.0\testar.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\testar\obj\Debug\net7.0\ref\testar.dll
+C:\Users\49802002810\Desktop\arrays\bin\Debug\net7.0\testar.exe
+C:\Users\49802002810\Desktop\arrays\bin\Debug\net7.0\testar.deps.json
+C:\Users\49802002810\Desktop\arrays\bin\Debug\net7.0\testar.runtimeconfig.json
+C:\Users\49802002810\Desktop\arrays\bin\Debug\net7.0\testar.dll
+C:\Users\49802002810\Desktop\arrays\bin\Debug\net7.0\testar.pdb
+C:\Users\49802002810\Desktop\arrays\obj\Debug\net7.0\testar.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\arrays\obj\Debug\net7.0\testar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\arrays\obj\Debug\net7.0\testar.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\arrays\obj\Debug\net7.0\testar.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\arrays\obj\Debug\net7.0\testar.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\arrays\obj\Debug\net7.0\testar.dll
+C:\Users\49802002810\Desktop\arrays\obj\Debug\net7.0\refint\testar.dll
+C:\Users\49802002810\Desktop\arrays\obj\Debug\net7.0\testar.pdb
+C:\Users\49802002810\Desktop\arrays\obj\Debug\net7.0\testar.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\arrays\obj\Debug\net7.0\ref\testar.dll
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\bin\Debug\net7.0\testar.exe
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\bin\Debug\net7.0\testar.deps.json
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\bin\Debug\net7.0\testar.runtimeconfig.json
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\bin\Debug\net7.0\testar.dll
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\bin\Debug\net7.0\testar.pdb
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\obj\Debug\net7.0\testar.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\obj\Debug\net7.0\testar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\obj\Debug\net7.0\testar.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\obj\Debug\net7.0\testar.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\obj\Debug\net7.0\testar.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\obj\Debug\net7.0\testar.dll
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\obj\Debug\net7.0\refint\testar.dll
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\obj\Debug\net7.0\testar.pdb
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\obj\Debug\net7.0\testar.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\BACKEND_Eduardo\Arrays - c#\intro\obj\Debug\net7.0\ref\testar.dll

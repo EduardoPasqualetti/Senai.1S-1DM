@@ -1,0 +1,15 @@
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\bin\Debug\net7.0\correcao.exe
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\bin\Debug\net7.0\correcao.deps.json
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\bin\Debug\net7.0\correcao.runtimeconfig.json
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\bin\Debug\net7.0\correcao.dll
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\bin\Debug\net7.0\correcao.pdb
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\obj\Debug\net7.0\correcao.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\obj\Debug\net7.0\correcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\obj\Debug\net7.0\correcao.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\obj\Debug\net7.0\correcao.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\obj\Debug\net7.0\correcao.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\obj\Debug\net7.0\correcao.dll
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\obj\Debug\net7.0\refint\correcao.dll
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\obj\Debug\net7.0\correcao.pdb
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\obj\Debug\net7.0\correcao.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\passagens-aereas\correcao\obj\Debug\net7.0\ref\correcao.dll

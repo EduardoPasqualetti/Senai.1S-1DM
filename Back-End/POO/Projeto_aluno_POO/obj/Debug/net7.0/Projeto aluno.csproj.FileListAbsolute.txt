@@ -1,0 +1,30 @@
+C:\Users\49802002810\Desktop\Projeto aluno\bin\Debug\net7.0\Projeto aluno.exe
+C:\Users\49802002810\Desktop\Projeto aluno\bin\Debug\net7.0\Projeto aluno.deps.json
+C:\Users\49802002810\Desktop\Projeto aluno\bin\Debug\net7.0\Projeto aluno.runtimeconfig.json
+C:\Users\49802002810\Desktop\Projeto aluno\bin\Debug\net7.0\Projeto aluno.dll
+C:\Users\49802002810\Desktop\Projeto aluno\bin\Debug\net7.0\Projeto aluno.pdb
+C:\Users\49802002810\Desktop\Projeto aluno\obj\Debug\net7.0\Projeto aluno.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\Projeto aluno\obj\Debug\net7.0\Projeto aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\Projeto aluno\obj\Debug\net7.0\Projeto aluno.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\Projeto aluno\obj\Debug\net7.0\Projeto aluno.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\Projeto aluno\obj\Debug\net7.0\Projeto aluno.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\Projeto aluno\obj\Debug\net7.0\Projeto aluno.dll
+C:\Users\49802002810\Desktop\Projeto aluno\obj\Debug\net7.0\refint\Projeto aluno.dll
+C:\Users\49802002810\Desktop\Projeto aluno\obj\Debug\net7.0\Projeto aluno.pdb
+C:\Users\49802002810\Desktop\Projeto aluno\obj\Debug\net7.0\Projeto aluno.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\Projeto aluno\obj\Debug\net7.0\ref\Projeto aluno.dll
+C:\Users\49802002810\Desktop\Projeto_aluno\obj\Debug\net7.0\Projeto aluno.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\Projeto_aluno\obj\Debug\net7.0\Projeto aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\Projeto_aluno\obj\Debug\net7.0\Projeto aluno.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\Projeto_aluno\obj\Debug\net7.0\Projeto aluno.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\Projeto_aluno\obj\Debug\net7.0\Projeto aluno.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\Projeto_aluno\obj\Debug\net7.0\Projeto aluno.dll
+C:\Users\49802002810\Desktop\Projeto_aluno\obj\Debug\net7.0\refint\Projeto aluno.dll
+C:\Users\49802002810\Desktop\Projeto_aluno\obj\Debug\net7.0\Projeto aluno.pdb
+C:\Users\49802002810\Desktop\Projeto_aluno\bin\Debug\net7.0\Projeto aluno.exe
+C:\Users\49802002810\Desktop\Projeto_aluno\bin\Debug\net7.0\Projeto aluno.deps.json
+C:\Users\49802002810\Desktop\Projeto_aluno\bin\Debug\net7.0\Projeto aluno.runtimeconfig.json
+C:\Users\49802002810\Desktop\Projeto_aluno\bin\Debug\net7.0\Projeto aluno.dll
+C:\Users\49802002810\Desktop\Projeto_aluno\bin\Debug\net7.0\Projeto aluno.pdb
+C:\Users\49802002810\Desktop\Projeto_aluno\obj\Debug\net7.0\Projeto aluno.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\Projeto_aluno\obj\Debug\net7.0\ref\Projeto aluno.dll

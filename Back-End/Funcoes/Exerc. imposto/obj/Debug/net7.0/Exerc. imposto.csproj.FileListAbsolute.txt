@@ -1,0 +1,15 @@
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\obj\Debug\net7.0\Exerc. imposto.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\obj\Debug\net7.0\Exerc. imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\obj\Debug\net7.0\Exerc. imposto.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\obj\Debug\net7.0\Exerc. imposto.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\obj\Debug\net7.0\Exerc. imposto.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\bin\Debug\net7.0\Exerc. imposto.exe
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\bin\Debug\net7.0\Exerc. imposto.deps.json
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\bin\Debug\net7.0\Exerc. imposto.runtimeconfig.json
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\bin\Debug\net7.0\Exerc. imposto.dll
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\bin\Debug\net7.0\Exerc. imposto.pdb
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\obj\Debug\net7.0\Exerc. imposto.dll
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\obj\Debug\net7.0\refint\Exerc. imposto.dll
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\obj\Debug\net7.0\Exerc. imposto.pdb
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\obj\Debug\net7.0\Exerc. imposto.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\funcoes\Exerc. imposto\obj\Debug\net7.0\ref\Exerc. imposto.dll

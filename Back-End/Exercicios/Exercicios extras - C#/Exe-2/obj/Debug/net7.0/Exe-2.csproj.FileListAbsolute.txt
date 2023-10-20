@@ -1,0 +1,15 @@
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\bin\Debug\net7.0\Exe-2.exe
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\bin\Debug\net7.0\Exe-2.deps.json
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\bin\Debug\net7.0\Exe-2.runtimeconfig.json
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\bin\Debug\net7.0\Exe-2.dll
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\bin\Debug\net7.0\Exe-2.pdb
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\obj\Debug\net7.0\Exe-2.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\obj\Debug\net7.0\Exe-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\obj\Debug\net7.0\Exe-2.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\obj\Debug\net7.0\Exe-2.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\obj\Debug\net7.0\Exe-2.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\obj\Debug\net7.0\Exe-2.dll
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\obj\Debug\net7.0\refint\Exe-2.dll
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\obj\Debug\net7.0\Exe-2.pdb
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\obj\Debug\net7.0\Exe-2.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\Exercicio a parte\Exe-2\obj\Debug\net7.0\ref\Exe-2.dll

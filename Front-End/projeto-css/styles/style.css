@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+/*  Reset de Propriedades */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    color: gray;
+    background-color: #edeced;
+}
+
+
+/* Informações Genéricas */
+
+.container-grid {
+    width: 100%;
+    /*largura padrao, não precisaria colocar */
+    max-width: 1200px;
+    /*limite maximo de largura */
+    min-width: 992px;
+    /*limite minimo de largura */
+    margin: 0 auto;
+}
+
+
+/***** CABEÇALHO  *****/
+
+header {
+    background-color: grey;
+}
+
+header .header-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1 {
+    color: white;
+    font-weight: 300;
+    width: 150px;
+}
+
+header h1 #logoux {
+    font-weight: 600;
+    font-style: italic;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    align-items: center;
+    margin-right: 8px;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+}
+
+
+/* MAIN */
+
+main img {
+    width: 100%;
+}
+
+main .colunas-flex {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+main .coluna1 {
+    width: 75%;
+    background-color: white;
+}
+
+main .coluna1 h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+main .coluna1 p {
+    margin: 0 20px 20px 20px;
+    line-height: 24px;
+}
+
+main .coluna2 {
+    width: 20%;
+}
+
+main .coluna2 article {
+    background-color: white;
+}
+
+
+/* aside */
+
+aside {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+/* footer */
+
+footer {
+    padding: 20px 0;
+    color: white;
+    background-coloR: #676767;
+}

@@ -1,0 +1,15 @@
+C:\Users\49802002810\Desktop\classic calculadora\bin\Debug\net7.0\classic calculadora.exe
+C:\Users\49802002810\Desktop\classic calculadora\bin\Debug\net7.0\classic calculadora.deps.json
+C:\Users\49802002810\Desktop\classic calculadora\bin\Debug\net7.0\classic calculadora.runtimeconfig.json
+C:\Users\49802002810\Desktop\classic calculadora\bin\Debug\net7.0\classic calculadora.dll
+C:\Users\49802002810\Desktop\classic calculadora\bin\Debug\net7.0\classic calculadora.pdb
+C:\Users\49802002810\Desktop\classic calculadora\obj\Debug\net7.0\classic calculadora.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\classic calculadora\obj\Debug\net7.0\classic calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\classic calculadora\obj\Debug\net7.0\classic calculadora.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\classic calculadora\obj\Debug\net7.0\classic calculadora.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\classic calculadora\obj\Debug\net7.0\classic calculadora.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\classic calculadora\obj\Debug\net7.0\classic calculadora.dll
+C:\Users\49802002810\Desktop\classic calculadora\obj\Debug\net7.0\refint\classic calculadora.dll
+C:\Users\49802002810\Desktop\classic calculadora\obj\Debug\net7.0\classic calculadora.pdb
+C:\Users\49802002810\Desktop\classic calculadora\obj\Debug\net7.0\classic calculadora.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\classic calculadora\obj\Debug\net7.0\ref\classic calculadora.dll

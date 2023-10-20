@@ -1,0 +1,374 @@
+/* impots */
+
+@font-face {
+    font-family: "my font";
+    src: url(../assets/Fontes/BebasNeue-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: "open";
+    src: url(../assets/Fontes/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+
+
+/* reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.layout-grid {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    /* border: 2px solid yellow; */
+}
+
+
+/* HEADER */
+
+header {
+    height: 60px;
+    background-color: #F9003D;
+}
+
+header .header-flex {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+}
+
+header .header-flex img {
+    display: none;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    /* border: 1px solid black; */
+}
+
+header nav a {
+    font-family: "my font";
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 20px black;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+header nav a:hover {
+    text-shadow: 0px 0px 5px rgba(249, 0, 61, 0.3);
+    background-color: white;
+    color: #F9003D;
+}
+
+
+/* main */
+
+main .banner {
+    height: 740px;
+    background-image: url(../assets/Images/imagem-fundo-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: botton;
+}
+
+.banner div h1 {
+    color: white;
+    text-transform: uppercase;
+    font-size: 75px;
+    letter-spacing: 2px;
+    /* border: 2px solid white; */
+    padding-top: 140px;
+    font-family: "my font";
+}
+
+#linha {
+    width: 460px;
+    height: 2px;
+    background-color: #FFAF00;
+}
+
+.banner div h2 {
+    color: #F9003D;
+    text-transform: uppercase;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 15px;
+}
+
+#banner-flex {
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 70px;
+    justify-content: space-around;
+}
+
+#mouse {
+    padding-top: 30px;
+}
+
+
+/* SECTION 2 */
+
+main .sobre {
+    height: 760px;
+    background-color: #080324;
+    padding-top: 80px;
+}
+
+#sobre-flex {
+    height: 85%;
+}
+
+.sobre h1 {
+    color: red;
+    text-transform: uppercase;
+    font-family: "my font";
+    font-size: 48px;
+}
+
+#box-flex {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    height: 91%;
+    width: 100%;
+    padding-top: 70px;
+}
+
+.participantes {
+    width: 700px;
+    padding-left: 100px;
+    text-transform: uppercase;
+    padding-right: 60px;
+}
+
+.participantes h2 {
+    color: white;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.participantes h1 {
+    color: #FFAF00;
+    padding-top: 30px;
+    font-family: "my font";
+}
+
+.participantes p {
+    color: white;
+    padding-top: 30px;
+    font-size: 10px;
+    font-family: "open";
+}
+
+#imagem-sala {
+    width: 560px;
+}
+
+
+/* SECTION 3 */
+
+main .info {
+    height: 250px;
+     background-image: url(../assets/Images/imagem-fundo-info.png); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: botton;
+}
+
+.info .retangulos {
+    width: 240px;
+    height: 80px;
+    border: 1px solid #A259F7;
+    
+}
+
+#caixas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 70px;
+    
+}
+
+.escritas {
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: white;
+    padding-bottom: 8px;
+}
+
+.info .retangulos p {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #A259F7;
+    
+}
+
+/* SECTION 4  */
+
+main .endereco {
+    height: 550px;
+    background-image: url(../assets/Images/imagem-fundo-endereco.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: botton;
+}
+
+main .endereco article {
+    padding: 0 120px;
+}
+
+
+#box-endereco {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #340B65;
+    background-color: #010010;
+    
+}
+
+#box-endereco p {
+    color: #A259F7;
+    padding-left: 140px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+main .endereco h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #FFAF00;
+    padding-top: 90px;
+    font-size: 55px;
+    font-family: "my font";
+    padding-bottom: 10px;
+
+}
+
+
+footer {
+    height: 70px;
+    background-color: #F9003D;
+}
+
+footer div {
+    color: white;
+    display: flex;
+    padding: 28px 600px;
+}
+
+#mapa {
+    position: relative;
+    bottom: 0px;
+    right: 20px;
+    bottom: 30px;
+}
+
+
+
+/***** MEDIA QUERIES *****/
+
+/* tablets >= 768px até 991px*/
+@media screen and (max-width: 991px) {
+  
+}
+
+/* smartphones >= 0 até 767px */
+@media screen and (max-width: 767px) {
+   
+
+    .mostrarMenu {
+        left: 0;
+        opacity: 1;
+    }
+
+    
+/* temporiamente off */
+
+    /* main {
+        display: none;
+    
+    } */
+   
+    footer {
+        display: none;
+    }
+    
+   
+
+    header #menu-mobile {
+        display: block;
+      
+    }
+
+    header nav {
+      
+        position: fixed;
+        top: 60px;
+        left: -80vw;
+        width: 80vw;
+        height: 100vh;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: #F9003d;
+        opacity: 0;
+        transition: left 1.5s, opacity 0.6s;
+    }
+
+    header nav a {
+        width: 180px;
+        border-left: 2px dotted #ffffff;
+        border-radius: 0;
+        text-align: center;
+    }
+
+    /* BANNER */
+
+    main .banner {
+        justify-content: center;
+    }
+
+    main .banner #banner-flex {
+        max-width: 340px;
+        border: 1px solid yellow;
+ 
+    }
+
+    main #banner-flex h1 {
+        font-size: 40px;
+    }
+
+    main .banner p {
+        display: none;
+    }
+
+    main .banner #linha {
+        display: none;
+    }
+
+    main #banner-flex h2 {
+        font-size: 30px;
+    }
+}

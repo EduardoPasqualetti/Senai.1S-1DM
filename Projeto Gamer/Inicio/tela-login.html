@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="../Projeto-Gamer/css/login.css">
+    <link rel="stylesheet" href="../Projeto-Gamer/css/header.css">
+    <link rel="stylesheet" href="../Projeto-Gamer/css/footer.css">
+    <link rel="stylesheet" href="../Projeto-Gamer/css/reset.css">
+    <link rel="stylesheet" href="../Projeto-Gamer/css/desktop.css">
+</head>
+
+
+<body>
+    <header>
+
+        <div class="header-top">
+            <div class="layout-grid alinhamento-between-center">
+                <div class="contatos">
+                    <div class="phone">
+                        <img src="../Projeto-Gamer/assets/icons/icone_telefone.svg" alt="Ícone de telefone">
+                        <span>(11) 0900-1010</span>
+                    </div>
+                    <div class="email">
+                        <img src="../Projeto-Gamer/assets/icons/icone_email.svg" alt="Ícone de e-mail">
+                        <span>contato@gamer.com.br</span>
+                    </div>
+                </div>
+
+                <div class="midias-sociais">
+                    <a href="">
+                        <img src="../Projeto-Gamer/assets/icons/icone_facebook.svg"
+                            alt="Imagem link do Facebook da empresa Gamer">
+                    </a>
+                    <a href="">
+                        <img src="../Projeto-Gamer/assets/icons/icone_linkedin.svg"
+                            alt="Imagem link do Linkedin da empresa Gamer">
+                    </a>
+                    <a href="">
+                        <img src="../Projeto-Gamer/assets/icons/icone_instagram.svg"
+                            alt="Imagem link do Instagram da empresa Gamer">
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="header-bottom">
+            <div class="layout-grid alinhamento-between-center">
+                <!-- menu hamburger -->
+                <img onclick="mostrarMenu()" src="assets/icons/icone_hamburger.svg"
+                    class="menu-hamburger" alt="Ícone para abrir e fechar o menu de celular">
+
+                <img class="logo" src="assets/images/logotipo-gamer.svg"
+                    alt="Logotipo da empresa. Texto Gamer com um joystick ao centro">
+
+                <nav class="menu" id="menu">
+                    <a href="index.html">Início</a>
+                    <a href="jogadores.html">Jogadores</a>
+                    <a href="cadastro-equipes.html">Equipes</a>
+                    <a href="index.html">Notícias</a>
+
+                    <!-- visível apenas no mobile -->
+
+                    <a class="phone">
+                        <img src="assets/icons/icone_telefone.svg"
+                            alt="Ícone de Telefone. Abre e fecha o menu principal, no celular">
+                        <span>(11) 0900-1010</span>
+                    </a>
+                    <a class="email">
+                        <img src="assets/icons/icone_email.svg" alt="Ícone de e-mail">
+                        <span>contato@gamer.com.br</span>
+                    </a>
+
+                    <div class="midias-sociais">
+                        <a href="">
+                            <img src="assets/icons/icone_facebook.svg"
+                                alt="Imagem link do Facebook da empresa Gamer">
+                        </a>
+                        <a href="">
+                            <img src="assets/icons/icone_linkedin.svg"
+                                alt="Imagem link do Linkedin da empresa Gamer">
+                        </a>
+                        <a href="">
+                            <img src="assets/icons/icone_instagram.svg"
+                                alt="Imagem link do Instagram da empresa Gamer">
+                        </a>
+                    </div>
+                </nav>
+
+                <!-- menu 3 pontinhos -->
+                <img onclick="mostrarUsuario()" src="assets/icons/icone_3pontinhos.svg"
+                    class="menu-pontinhos" alt="Ícone 3 pontinhos, abre o menu de usuários">
+
+                <div class="menu-usuarios" id="usuario">
+                    <a href="">
+                        <img src="assets/icons/icone_pessoa.svg" alt="Ícone de perfil">
+                    </a>
+                    <a href="">
+                        <img src="assets/icons/icone_compras.svg" alt="Ícone de sacola">
+                    </a>
+                    <a href="">
+                        <img src="assets/icons/Icone_pesquisa.svg" alt="Ícone lupa de pesquisa">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+
+
+        <div class="login">
+            <div class="box-preta">
+                <form action="">
+                    <h1>Login</h1>
+                    <hr>
+                    <div class="linha">
+                        <img src="./assets/icons/icone login.svg" alt="">
+                        <input type="email" placeholder="Digite seu e-mail">
+                    </div>
+
+                    <div class="linha">
+                        <img src="./assets/icons/ICONE CHAVE.svg" alt="">
+                        <input type="password" placeholder="Digite sua senha:">
+                    </div>
+                    <button>
+                        Logar
+                    </button>
+                </form>
+
+            </div>
+        </div>
+
+
+    </main>
+
+    <footer>
+        <div class="layout-grid">
+            <!-- PARTE DE CIMA DO FOOTER  -->
+            <div class="parte1">
+                <img src="assets/images/logotipo-gamer.svg" alt="logotipo" id="logofooter">
+                <p>Nosso sucesso na criação de soluções de negócios se deve em grande parte à nossa equipe talentosa e
+                    altamente comprometida.</p>
+                <div id="redes-sociais">
+                    <img src="../Projeto-Gamer/assets/icons/icone_facebook.svg" alt="face">
+                    <img src="../Projeto-Gamer/assets/icons/icone_linkedin.svg" alt="linkedin">
+                    <img src="../Projeto-Gamer/assets/icons/icone_instagram.svg" alt="insta">
+                </div>
+            </div>
+
+            <!-- LINKS UTEIS  -->
+            <div class="parte2">
+                <h1>Links Uteis</h1>
+                <div class="linhafooter"></div>
+                <div class="alinhar-links">
+                    <div class="alinhamento">
+                        <div class="linhas"></div>
+                        <p>Inicio</p>
+                    </div>
+                    <div class="alinhamento">
+                        <div class="linhas"></div>
+                        <p>Jogadores</p>
+                    </div>
+                    <div class="alinhamento">
+                        <div class="linhas"></div>
+                        <p>Noticias</p>
+                    </div>
+                </div>
+                <div class="alinhar-links2">
+                    <div class="alinhamento">
+                        <div class="linhas"></div>
+                        <p>Login</p>
+                    </div>
+                    <div class="alinhamento">
+                        <div class="linhas"></div>
+                        <p>Equipes</p>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- CONTATOS  -->
+            <div class="parte3">
+                <h1>Contatos</h1>
+                <div class="linhafooter"></div>
+                <div class="contatos-info">
+                    <p class="amarelo">Localização:</p>
+                    <p>Rua Niterói, 180 - São Caetano do Sul- SP</p>
+                    <p class="amarelo espaco">Junte-se a nós:</p>
+                    <p>contato@gamer.com.br</p>
+                    <p class="amarelo espaco">Telefone:</p>
+                    <p>(11) 0900-1010</p>
+                </div>
+            </div>
+
+            <!-- NEWSLETTER  -->
+            <div class="parte4">
+                <h1>Newsletter</h1>
+                <div class="linhafooter"></div>
+                <div class="caixas-newsletter">
+                    <div id="box-email">
+                        <label for="email"></label>
+                        <input type="text" placeholder="Digite seu e-mail:">
+                    </div>
+                    <button id="box-enviar">
+                        <p>Enviar</p>
+                    </button>
+                </div>
+                <div id="box-voltar"><img src="./assets/icons/Vector.svg" alt="icone voltar"></div>
+                <p class="ultima-frase">©Copyright2022-GamerJogosDigitais</p>
+            </div>
+
+        </div>
+    </footer>
+
+    <script>
+        function mostrarMenu() {
+            document.getElementById("menu").classList.toggle("mostrar-menu");
+        }
+
+        function mostrarUsuario() {
+            document.getElementById("usuario").classList.toggle("mostrar-usuario")
+        }
+
+    </script>
+</body>
+
+</html>

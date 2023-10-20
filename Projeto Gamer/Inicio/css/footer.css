@@ -1,0 +1,173 @@
+/* FOOTER */
+
+footer {
+    background-image: url(../assets/images/backgroung_footer.svg);
+    width: 100%;
+    height: 1520px;
+}
+
+footer .parte1 {
+    /* border: 1px solid red; */
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+footer .parte1 img {
+    width: 140px;
+    height: 40px;
+
+}
+
+footer .parte1 p {
+    font-family: Quicksand;
+    font-size: 14px;
+}
+
+footer #redes-sociais {
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+footer .parte2 {
+    padding-top: 130px;
+}
+
+footer .parte2 h1 {
+    padding-bottom: 5px;
+    font-family: TitilliumWeb-Black;
+}
+
+footer .linhafooter {
+    width: 33%;
+    height: 3px;
+    background-color: #F9AA01;
+    margin-bottom: 50px;
+
+}
+
+footer .linhas {
+    background-color: #F9AA01;
+    height: 2px;
+    width: 10px;
+}
+
+footer .parte2 .alinhamento {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 12px;
+
+}
+
+footer .alinhar-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+footer .alinhar-links2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 191px;
+    padding-top: 15px;
+    padding-bottom: 120px;
+}
+
+
+footer .contatos-info {
+    font-family: TitilliumWeb-Bold;
+
+
+}
+
+footer .contatos-info .amarelo {
+    color: #F9AA01;
+
+}
+
+footer .contatos-info .espaco {
+    padding-top: 7px;
+}
+
+footer .parte4 h1 {
+    padding-top: 100px;
+    font-family: TitilliumWeb-Black;
+}
+
+footer .parte4 #box-email  {
+    width: 320px;
+    height: 40px;
+    border: 1px solid #ffffff;
+    display: flex;    align-items: center;
+    background-image: linear-gradient(to right bottom, rgba(239, 239, 239, 0.6), rgba(239, 239, 239, 0.1));
+    backdrop-filter: blur(30px);
+    border-radius: 8px;
+}
+
+footer .parte4 #box-email input {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    height: 100%;
+    
+}
+
+footer .parte4 #box-email input::placeholder {
+    color: white;
+    padding-left: 10px;
+}
+
+footer #box-email p {
+    padding-left: 20px;
+    font-family: Quicksand;
+}
+
+footer #box-enviar {
+    width: 320px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F9AA01;
+    border-radius: 7px;
+}
+
+footer #box-enviar p {
+    font-family: TitilliumWeb-Bold;
+    font-size: 22px;
+    color: black;
+}
+
+footer .caixas-newsletter {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid red; */
+    height: 105px;
+}
+
+footer #box-voltar {
+    width: 40px;
+    height: 40px;
+    background-color: #F9AA01;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 290px;
+    top: 130px;
+    border-radius: 8px;
+}
+
+footer .ultima-frase {
+    padding-top: 150px;
+    padding-left: 45px
+}

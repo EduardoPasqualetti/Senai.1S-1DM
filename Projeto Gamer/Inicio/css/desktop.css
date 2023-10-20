@@ -1,0 +1,186 @@
+/* Desktops >= 1200px*/
+@media screen and (min-width: 1200px) {
+    .layout-grid {
+        width: 100%;
+        max-width: 1400px;
+        /* border: 3px dotted yellowgreen; */
+    }
+
+    /* HEADER  */
+    header {
+        position: static;
+        height: 140px;
+        width: 100%;
+    }
+
+    /* Header Top */
+    header .header-top {
+        /* block é o valor default da maioria dos elementos */
+        display: block;
+        height: 50px;
+        border-bottom: 2px solid #F9AA01;
+    }
+
+    header .header-top .contatos {
+        width: 415px;
+        display: flex;
+        justify-content: space-between;
+
+        font-family: Inter;
+        font-size: 14px;
+        font-weight: 400;
+
+        /* border: 2px solid white; */
+    }
+
+    header .header-top .contatos>div {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+        /* border: 1px solid yellow; */
+    }
+
+    header .header-top .midias-sociais {
+        width: 120px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        /* border: 2px solid white; */
+    }
+
+    /* Esconde elementos desnecessários */
+    header .menu-hamburger,
+    header .menu-pontinhos,
+    header .header-bottom nav .phone,
+    header .header-bottom nav .email,
+    header .header-bottom nav .midias-sociais {
+        display: none;
+    }
+
+    /* Header Bottom */
+    header .header-bottom {
+        height: 90px;
+    }
+
+    header .header-bottom img.logo {
+        width: 200px;
+    }
+
+    header .header-bottom nav {
+        position: static;
+        width: 440px;
+        height: 50px;
+        padding: 0;
+        flex-direction: row;
+        align-items: center;
+        /* background-color: red; */
+    }
+
+    header .header-bottom nav>a {
+        border: none;
+        font-size: 14px;
+    }
+
+    header .header-bottom nav>a:hover {
+        background-color: transparent;
+        color: #F9AA01;
+    }
+
+    header .header-bottom .menu-usuarios {
+        position: static;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 120px;
+        height: auto;
+        background-color: transparent;
+    }
+
+    /* MAIN */
+    main {
+        margin-top: 0;
+    }
+
+    /* Banner */
+    main .banner {
+        height: 722px;
+        /* alterar a imagem de fundo */
+        background-image: url(../assets/images/Banner_background_1.png);
+        background-size: cover;
+        background-position: top;
+
+    }
+
+    main .banner h1 {
+        font-size: 80px;
+    }
+
+    main .banner button {
+        border: none;
+        border-radius: 8px;
+    }
+
+    /* Sessão de Jogos */
+    main .sessao-sobre {
+        height: 500px;
+        flex-direction: row;
+    }
+
+    main .sessao-sobre img {
+        width: 555px;
+    }
+
+
+    /* SESSAO INFO  */
+
+   
+
+
+
+    .sessao-noticias {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: flex-start;
+        height: auto;
+        background-image: url(../assets/images/fundo\ noticias.png);
+        background-size: cover;
+        width: 100%;
+    }
+
+    .sessao-noticias .titulo-noticias {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 60px;
+        padding-bottom: 80px;
+        width: 100%;
+    }
+
+    .sessao-noticias .box-noticia {
+        width: 320px;
+        height: 350px;
+        margin-bottom: 40px;
+        border: none; 
+        display: flex;
+        flex-direction: column;
+        background-image: linear-gradient(to right bottom, rgba(29, 26, 52, 0.34), rgba(5, 1, 12, 0.79)); 
+        backdrop-filter: blur(30px);
+    }
+
+
+    .sessao-noticias .ajuste-noticias {
+        padding-left: 5%;
+        padding-right: 5%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+       
+    }
+  
+
+
+
+    
+}

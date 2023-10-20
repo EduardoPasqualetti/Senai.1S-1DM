@@ -1,0 +1,30 @@
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\bin\Debug\net7.0\extra-3.exe
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\bin\Debug\net7.0\extra-3.deps.json
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\bin\Debug\net7.0\extra-3.runtimeconfig.json
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\bin\Debug\net7.0\extra-3.dll
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\bin\Debug\net7.0\extra-3.pdb
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\obj\Debug\net7.0\extra-3.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\obj\Debug\net7.0\extra-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\obj\Debug\net7.0\extra-3.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\obj\Debug\net7.0\extra-3.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\obj\Debug\net7.0\extra-3.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\obj\Debug\net7.0\extra-3.dll
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\obj\Debug\net7.0\refint\extra-3.dll
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\obj\Debug\net7.0\extra-3.pdb
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\obj\Debug\net7.0\extra-3.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\Exercicios-estrutura de repeticao\extra-3\obj\Debug\net7.0\ref\extra-3.dll
+C:\Users\49802002810\Desktop\ex.repeticao\6-\bin\Debug\net7.0\extra-3.exe
+C:\Users\49802002810\Desktop\ex.repeticao\6-\bin\Debug\net7.0\extra-3.deps.json
+C:\Users\49802002810\Desktop\ex.repeticao\6-\bin\Debug\net7.0\extra-3.runtimeconfig.json
+C:\Users\49802002810\Desktop\ex.repeticao\6-\bin\Debug\net7.0\extra-3.dll
+C:\Users\49802002810\Desktop\ex.repeticao\6-\bin\Debug\net7.0\extra-3.pdb
+C:\Users\49802002810\Desktop\ex.repeticao\6-\obj\Debug\net7.0\extra-3.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\ex.repeticao\6-\obj\Debug\net7.0\extra-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\ex.repeticao\6-\obj\Debug\net7.0\extra-3.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\ex.repeticao\6-\obj\Debug\net7.0\extra-3.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\ex.repeticao\6-\obj\Debug\net7.0\extra-3.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\ex.repeticao\6-\obj\Debug\net7.0\extra-3.dll
+C:\Users\49802002810\Desktop\ex.repeticao\6-\obj\Debug\net7.0\refint\extra-3.dll
+C:\Users\49802002810\Desktop\ex.repeticao\6-\obj\Debug\net7.0\extra-3.pdb
+C:\Users\49802002810\Desktop\ex.repeticao\6-\obj\Debug\net7.0\extra-3.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\ex.repeticao\6-\obj\Debug\net7.0\ref\extra-3.dll

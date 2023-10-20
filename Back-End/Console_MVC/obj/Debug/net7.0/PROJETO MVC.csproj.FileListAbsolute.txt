@@ -1,0 +1,30 @@
+C:\Users\49802002810\Desktop\PROJETO MVC\bin\Debug\net7.0\PROJETO MVC.exe
+C:\Users\49802002810\Desktop\PROJETO MVC\bin\Debug\net7.0\PROJETO MVC.deps.json
+C:\Users\49802002810\Desktop\PROJETO MVC\bin\Debug\net7.0\PROJETO MVC.runtimeconfig.json
+C:\Users\49802002810\Desktop\PROJETO MVC\bin\Debug\net7.0\PROJETO MVC.dll
+C:\Users\49802002810\Desktop\PROJETO MVC\bin\Debug\net7.0\PROJETO MVC.pdb
+C:\Users\49802002810\Desktop\PROJETO MVC\obj\Debug\net7.0\PROJETO MVC.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\PROJETO MVC\obj\Debug\net7.0\PROJETO MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\PROJETO MVC\obj\Debug\net7.0\PROJETO MVC.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\PROJETO MVC\obj\Debug\net7.0\PROJETO MVC.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\PROJETO MVC\obj\Debug\net7.0\PROJETO MVC.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\PROJETO MVC\obj\Debug\net7.0\PROJETO MVC.dll
+C:\Users\49802002810\Desktop\PROJETO MVC\obj\Debug\net7.0\refint\PROJETO MVC.dll
+C:\Users\49802002810\Desktop\PROJETO MVC\obj\Debug\net7.0\PROJETO MVC.pdb
+C:\Users\49802002810\Desktop\PROJETO MVC\obj\Debug\net7.0\PROJETO MVC.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\PROJETO MVC\obj\Debug\net7.0\ref\PROJETO MVC.dll
+C:\Users\49802002810\Desktop\CONSOLE_MVC\bin\Debug\net7.0\PROJETO MVC.exe
+C:\Users\49802002810\Desktop\CONSOLE_MVC\bin\Debug\net7.0\PROJETO MVC.deps.json
+C:\Users\49802002810\Desktop\CONSOLE_MVC\bin\Debug\net7.0\PROJETO MVC.runtimeconfig.json
+C:\Users\49802002810\Desktop\CONSOLE_MVC\bin\Debug\net7.0\PROJETO MVC.dll
+C:\Users\49802002810\Desktop\CONSOLE_MVC\bin\Debug\net7.0\PROJETO MVC.pdb
+C:\Users\49802002810\Desktop\CONSOLE_MVC\obj\Debug\net7.0\PROJETO MVC.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\CONSOLE_MVC\obj\Debug\net7.0\PROJETO MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\CONSOLE_MVC\obj\Debug\net7.0\PROJETO MVC.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\CONSOLE_MVC\obj\Debug\net7.0\PROJETO MVC.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\CONSOLE_MVC\obj\Debug\net7.0\PROJETO MVC.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\CONSOLE_MVC\obj\Debug\net7.0\PROJETO MVC.dll
+C:\Users\49802002810\Desktop\CONSOLE_MVC\obj\Debug\net7.0\refint\PROJETO MVC.dll
+C:\Users\49802002810\Desktop\CONSOLE_MVC\obj\Debug\net7.0\PROJETO MVC.pdb
+C:\Users\49802002810\Desktop\CONSOLE_MVC\obj\Debug\net7.0\PROJETO MVC.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\CONSOLE_MVC\obj\Debug\net7.0\ref\PROJETO MVC.dll
